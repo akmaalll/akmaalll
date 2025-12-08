@@ -9,12 +9,7 @@
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=akmaalll)](https://git.io/streak-stats)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=akmaalll&theme=dark)](https://git.io/streak-stats)
 
 
 ## 🤝 Connect with Me

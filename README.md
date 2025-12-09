@@ -9,8 +9,29 @@
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=akmaalll&theme=dark)](https://git.io/streak-stats)
-
+{
+  "mode": "daily",
+  "totalContributions": 2048,
+  "firstContribution": "2016-08-10",
+  "longestStreak": {
+    "start": "2021-12-19",
+    "end": "2022-03-14",
+    "length": 86
+  },
+  "currentStreak": {
+    "start": "2025-11-24",
+    "end": "2025-12-09",
+    "length": 16
+  },
+  "excludedDays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ]
+}
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmal-rayadil-fitrah-a42459270)
